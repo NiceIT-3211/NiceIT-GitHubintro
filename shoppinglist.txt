@@ -1,4 +1,6 @@
 Shopping list
 
 Apple
-Orenge
+Orenges
+carrots
+Mango
