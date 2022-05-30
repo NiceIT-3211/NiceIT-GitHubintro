@@ -2,5 +2,7 @@ Shopping list
 
 Apple
 Orenges
-carrots
+Carrots
 Mango
+Cherries
+Bananas
